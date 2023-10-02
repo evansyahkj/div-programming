@@ -9,7 +9,7 @@
 .hero {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(Images/Beranda-1-SMA-Negeri-3-Surakarta.png);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(Beranda-1-SMA-Negeri-3-Surakarta.png);
     background-size: cover;
     background-position: center;
     position: relative;
