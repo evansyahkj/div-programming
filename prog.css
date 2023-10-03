@@ -37,4 +37,12 @@ div h1 {
 div h4 {
     padding-top: -20px;
     padding-left: 40%;
+    padding-bottom: 50%;
+}
+
+.h3nama {
+    padding: 5px;
+}
+div h2 {
+    font-weight: 400;
 }
