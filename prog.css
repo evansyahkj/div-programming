@@ -12,6 +12,7 @@ body {
     background-color: rgb(20, 20, 74);
     background-size: cover;
     color: aliceblue;
+    max-height: 900px;
 }
 
 div h1 {
@@ -32,12 +33,14 @@ div h1 {
 
 .img{
     padding-left: 20px;
+    display: inline-block;
 }
 
 div h4 {
     padding-top: -20px;
     padding-left: 40%;
-    padding-bottom: 50%;
+    padding-bottom: 90%;
+    display: flex;
 }
 
 .h3nama {
